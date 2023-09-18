@@ -1,0 +1,5 @@
+# Exercício 9
+Qual a relação entre o Princípio da Inversão de Dependência e Injeção de Dependência?
+
+Ambas possibilitam diminuem as dependências, gerando menor acoplamento e maior coesão do código 
+

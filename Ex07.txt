@@ -1,0 +1,6 @@
+# Exercício 7
+Quando usamos, por exemplo, herança de classes para adicionar 
+comportamentos ao sistema sem que para isso tenhamos que alterar a 
+classe estendida, qual dos cinco princípios SOLID estamos respeitando?
+
+Princípio do aberto fechado - O

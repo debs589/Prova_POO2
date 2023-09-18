@@ -1,0 +1,6 @@
+# Exercício 8
+Qual a relação entre o Princípio da Substituição de Liskov e Polimorfismo?
+
+O Princípio de substituição ajuda a garantir que o polimorfismo
+foi aplicado corretamente - sabemos que as classes filhas podem
+ser substituídas pela pai/base sem "quebrá-las"

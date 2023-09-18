@@ -1,0 +1,8 @@
+# Exercício 6
+O que significa o Princípio da Responsabilidade Única?  
+Descreva com suas palavras a relação entre a violação deste princípio 
+e o acoplamento “ruim”. 
+
+É o princípio que determina que uma classe possui apenas uma função/objetivo
+O acoplamento ruim viola o princípio porque sugere que a classe tem funções
+ligadas à ela que não estão alinhadas com as demais.

@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios_escritos", "Exer
 		Ex10.txt = Ex10.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01", "ex01\ex01.csproj", "{3A1953EC-40D3-449A-B1CB-BF3E4F6480E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{488B3B38-74A6-4205-A617-0918A22DB3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{488B3B38-74A6-4205-A617-0918A22DB3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{488B3B38-74A6-4205-A617-0918A22DB3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1953EC-40D3-449A-B1CB-BF3E4F6480E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1953EC-40D3-449A-B1CB-BF3E4F6480E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1953EC-40D3-449A-B1CB-BF3E4F6480E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1953EC-40D3-449A-B1CB-BF3E4F6480E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
